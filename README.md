@@ -2,6 +2,9 @@
 
 A web content retrieval and Q&A system that allows users to index web content and chat with an AI about it.
 
+<img width="959" height="395" alt="webrag1" src="https://github.com/user-attachments/assets/c6377968-40e1-42eb-b25d-b73d987f30f4" />
+
+
 ## Quick Start
 
 1. **Install dependencies:**
