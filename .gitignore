@@ -1,0 +1,31 @@
+# Data directories - automatically generated
+data/vector_db/
+data/raw_content/
+data/chat_history.json
+data/config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+webrag_env/
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
